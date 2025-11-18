@@ -1,3 +1,5 @@
 function validateAge(oldEnough){
-  // add your code here
-}
+if oldEnough(oldEnough) {
+  document.getElementById('result').innerHTML = "old enough";
+};
+};
