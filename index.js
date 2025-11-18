@@ -1,3 +1,4 @@
-if function validateAge(oldEnough){
+if function validateAge(oldEnough) {
 return document.getElementById('result').innerHTML = "old enough";
 };
+
